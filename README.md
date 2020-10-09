@@ -3,7 +3,7 @@
 <!--
 **Matthww/Matthww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://github-readme-stats.vercel.app/api?username=Matthww&show_icons=true&theme=radical&count_private=true
+![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=Matthww&show_icons=true&theme=radical&count_private=true)
 
 Here are some ideas to get you started:
 
