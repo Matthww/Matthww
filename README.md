@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=Matthww&show_icons=true&theme=radical&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthww&theme=radical&count_private=true)
+![Matthew's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthww&hide=html&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api?username=Matthww&show_icons=true&hide_border=true&count_private=true&line_height=32)
 
 <!--
 **Matthww/Matthww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
