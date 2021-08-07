@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1>Hi <img src="https://github.com/Matthww/Matthww/blob/main/Hi.gif" width="29px" align="right">, I'm Matthew</h1> 
+<h1>Hi<img src="https://github.com/Matthww/Matthww/blob/main/Hi.gif" width="29px" align="right">, I'm Matthew</h1> 
 
 <img align="center" src="https://github.com/Matthww/Matthww/blob/main/pacman.svg?sanitize=true" width="200" height="200">
 
