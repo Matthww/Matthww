@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Matthww&show_icons=true&theme=radical&hide_title=1)
+
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthww&theme=radical&hide_langs_below=1)
